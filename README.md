@@ -1,5 +1,6 @@
 # MIPS-Logisim
 Author Jagdeep Singh & Muhammed Shafiq
+
 Emulating MIPs instructions in multicycle, single cycle and 5 staged pipeline  
 Instructions must be given in HEX and converted to little endian 
 Aside can be used to convert MIPS into Hex and then transfered over into little endian 
